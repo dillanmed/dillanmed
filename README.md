@@ -13,7 +13,16 @@
 - 👯 **Estou a procurar colaborar em:** Projetos Back-End, especialmente com Java e Python ou outras tecnologias de servidor  
 - 📫 **Como me contactar:**  
   - 📧 dillanmedeiros404@gmail.com  
-  - 📱 (85) 99860-9327  
+  - 📱 (85) 99860-9327
+ 
+<div style="display: inline_block;"><br>
+<img align="center" alt="Dillan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Dillan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt ="Dillan-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+</div>
+
+           
+          
  
 
 
