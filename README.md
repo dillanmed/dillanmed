@@ -10,7 +10,7 @@
 
 - 🔨 **Estou atualmente a trabalhar em:** Projetos acadêmicos e pessoais voltados para o desenvolvimento Front-End e Back-End  
 - 🌱 **Estou atualmente a aprender:** Java e fundamentos do desenvolvimento de software  
-- 👯 **Estou a procurar colaborar em:** Projetos Back-End e Full-Stack,especialmente com Java e Python ou outras tecnologias de servidor  
+- 👯 **Estou a procurar colaborar em:** Projetos Back-End e Full-Stack, especialmente com Java e Python ou outras tecnologias de servidor  
 - 📫 **Como me contactar:**  
   - 📧 dillanmedeiros404@gmail.com  
   - 📱 (85) 99860-9327
