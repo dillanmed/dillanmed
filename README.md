@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Dillan Medeiros
+#  Olá! Eu sou o Dillan Medeiros
 
 🎓 Estudante de Ciência da Computação na **Universidade de Fortaleza (UNIFOR)**  
 💻 Apaixonado por tecnologia, com foco em me tornar um desenvolvedor **Back-End**  
